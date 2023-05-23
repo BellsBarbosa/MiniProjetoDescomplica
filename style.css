@@ -10,8 +10,10 @@ h1{
 
 h2{
     font-size: 54px;
-    color: #303030;
+    color: #E84033;
     font-weight: 600;
+    font-family: 'Potra', sans-serif;
+  
 }
 
 .carousel-caption h5{
